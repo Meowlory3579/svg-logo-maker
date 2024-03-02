@@ -12,4 +12,4 @@ This application requires the Inquirer.js module. To install inquirer, navigate 
 This application requires the Jest.js module. To install jest, navigate to your terminal and enter "npm i --save-dev jest".  
 
 # Credits
-https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes | https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts | 
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes | https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts | https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute |

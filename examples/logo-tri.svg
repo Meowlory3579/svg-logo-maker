@@ -1,5 +1,5 @@
 
       <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
       <polygon points="150,50 100,150 200,150" fill="black" />
-      <text x="150" y="100" dominant-baseline="middle" text-anchor="middle" fill="yellow" font-size="50" font-family="Arial">GER</text>
+      <text x="150" y="135" dominant-baseline="text-bottom" text-anchor="middle" fill="yellow" font-size="30" font-family="Arial">GER</text>
       </svg>
