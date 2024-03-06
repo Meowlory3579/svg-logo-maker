@@ -3,6 +3,20 @@
 ## Description
 This is a Node.js command-line application that prompts the user to select a logo color and shape, provide text for the logo, and then saves the generated SVG to a .svg file.
 
+## User Story
+AS a freelance web developer  
+I WANT to generate a simple logo for my projects  
+SO THAT I don't have to pay a graphic designer
+
+## Acceptance Criteria
+GIVEN a command-line application that accepts user input  
+WHEN I am prompted for text, THEN I can enter up to three characters.  
+WHEN I am prompted for the text color, THEN I can enter a color keyword (OR a hexadecimal number).  
+WHEN I am prompted for a shape, THEN I am presented with a list of shapes to choose from: circle, triangle, and square.  
+WHEN I am prompted for the shape's color, THEN I can enter a color keyword (OR a hexadecimal number).  
+WHEN I have entered input for all the prompts, THEN an SVG file is created named `logo.svg` AND the output text "Generated logo.svg" is printed in the command line. 
+WHEN I open the `logo.svg` file in a browser, THEN I am shown a 300x200 pixel image that matches the criteria I entered.  
+
 ## Installation
 Install Node.js, if needed.     
 
@@ -20,8 +34,10 @@ Right-click on the "index.js" file and select "Open in Integrated Terminal". To 
 ## The following video demonstrates the application's functionality
 ![Demonstration of node.js application that prompts user to enter up to three characters, the text color, the shape, and the shape color and then generates an SVG logo.](https://github.com/Meowlory3579/svg-logo-maker/blob/main/assets/svg-logo-maker.gif)
 
+Also available here: https://drive.google.com/file/d/1Iie0PyfVs5aknhqI7RTfqa3fgtFFnGed/view?usp=sharing
+
 ## Deployed URL
 https://meowlory3579.github.io/svg-logo-maker/
 
 ## Credits
-https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes | https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts | https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute 
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes | https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts | https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute | ChatGPT helped me write the input validations in the index.js file
