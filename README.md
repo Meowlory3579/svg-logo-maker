@@ -18,7 +18,7 @@ This application requires the Jest.js module. To install jest, navigate to your 
 Right-click on the "index.js" file and select "Open in Integrated Terminal". To initiate application, type "node index.js" and press enter. Complete the prompts to generate a README.md file.
 
 ## The following video demonstrates the application's functionality
-(https://github.com/Meowlory3579/svg-logo-maker/blob/main/assets/svg-logo-maker.gif)
+![Demonstration of node.js application that prompts user to enter up to three characters, the text color, the shape, and the shape color and then generates an SVG logo.](https://github.com/Meowlory3579/svg-logo-maker/blob/main/assets/svg-logo-maker.gif)
 
 ## Deployed URL
 https://meowlory3579.github.io/svg-logo-maker/
