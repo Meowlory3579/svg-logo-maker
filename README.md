@@ -36,8 +36,5 @@ Right-click on the "index.js" file and select "Open in Integrated Terminal". To 
 
 Also available here: https://drive.google.com/file/d/1Iie0PyfVs5aknhqI7RTfqa3fgtFFnGed/view?usp=sharing
 
-## Deployed URL
-https://meowlory3579.github.io/svg-logo-maker/
-
 ## Credits
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes | https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts | https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute | ChatGPT helped me write the input validations in the index.js file
