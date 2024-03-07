@@ -34,7 +34,7 @@ Right-click on the "index.js" file and select "Open in Integrated Terminal". To 
 ## The following video demonstrates the application's functionality
 ![Demonstration of node.js application that prompts user to enter up to three characters, the text color, the shape, and the shape color and then generates an SVG logo.](https://github.com/Meowlory3579/svg-logo-maker/blob/main/assets/svg-logo-maker.gif)
 
-Also available here: https://drive.google.com/file/d/1Iie0PyfVs5aknhqI7RTfqa3fgtFFnGed/view?usp=sharing
+Also available here: https://drive.google.com/file/d/19_Y7be4CQx6Hok2ruQ7uvaXdaR_HZaiA/view?usp=sharing
 
 ## Credits
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes | https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts | https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute | ChatGPT helped me write the input validations in the index.js file
