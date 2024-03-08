@@ -29,7 +29,7 @@ This application requires the Inquirer.js module. To install inquirer, navigate 
 This application requires the Jest.js module. To install jest, navigate to your terminal and enter "npm i --save-dev jest".    
 
 ## Usage
-Right-click on the "index.js" file and select "Open in Integrated Terminal". To initiate application, type "node index.js" and press enter. Complete the prompts to generate a README.md file.
+Right-click on the "index.js" file and select "Open in Integrated Terminal". To initiate application, type "node index.js" and press enter. Complete the prompts to generate a `logo.svg` file.
 
 ## The following video demonstrates the application's functionality
 ![Demonstration of node.js application that prompts user to enter up to three characters, the text color, the shape, and the shape color and then generates an SVG logo.](https://github.com/Meowlory3579/svg-logo-maker/blob/main/assets/svg-logo-maker.gif)
